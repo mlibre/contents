@@ -2,8 +2,7 @@
 
 [![Connect WIFI from Linux terminal using nmcli](http://img.youtube.com/vi/tLLTjsgIpYY/0.jpg)](https://www.youtube.com/watch?v=tLLTjsgIpYY "Connect WIFI from Linux terminal using nmcli")
 		
-Connect to a WIFI from Linux terminal using nmcli command line tools.
-Commands:
+Connect to a WIFI from Linux terminal using nmcli command line tools.<br/>Commands:
 nmcli dev status
 nmcli device wifi list
 nmcli con up conn_profile
