@@ -6,6 +6,6 @@
 Create an EFI system partition using a Live Linux Mint, then install an actual Linux mint.
 
 https://open.lbry.com/@mlibre:e/how-to-create-an-efi-system-partition:1
-			
-			eth Address:
-			0xc9b64496986E7b6D4A68fDF69eF132A35e91838e
+
+eth Address:
+> 0xc9b64496986E7b6D4A68fDF69eF132A35e91838e
