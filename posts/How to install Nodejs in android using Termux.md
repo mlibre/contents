@@ -9,3 +9,14 @@ https://lbry.tv/@mlibre:e/how-to-install-nodejs-in-android-using:1
 
 My ETH Address:
 > 0xc9b64496986E7b6D4A68fDF69eF132A35e91838e
+
+<style>
+img
+{
+    display:block; 
+    float:none; 
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+}
+</style> 
