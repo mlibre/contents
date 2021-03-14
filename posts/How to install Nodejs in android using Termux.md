@@ -1,12 +1,9 @@
 # How to install Nodejs in android using Termux
+		<a href="https://www.youtube.com/watch?v=0i4ve79qPhw">
+		<p align="center">
+		<img src="http://img.youtube.com/vi/0i4ve79qPhw/0.jpg" alt="How to install Nodejs in android using Termux">
+		</p></a>
 
-
-<p style="text-align: center;">
-<img style="display: block; margin: auto;"
-src="https://stackoverflow.design/assets/img/logos/so/logo-print.svg">
-</p>
-
-[![How to install Nodejs in android using Termux](http://img.youtube.com/vi/0i4ve79qPhw/0.jpg)](https://www.youtube.com/watch?v=0i4ve79qPhw "How to install Nodejs in android using Termux")
 
 How to install Nodejs in android using Termux.<br/>	Commands:<br/>	# Install/Open Termux.<br/>	apt update<br/>	apt upgrade<br/>	apt install coreutils nano<br/>	apt install nodejs<br/>	node<br/>	console.log("Hi Have Fun")
 
