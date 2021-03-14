@@ -1,9 +1,6 @@
 # How to install Nodejs in android using Termux
 
 
-<img style="display: block; margin: auto;"
-src="http://img.youtube.com/vi/0i4ve79qPhw/0.jpg">
-
 <p style="text-align: center;">
 <img style="display: block; margin: auto;"
 src="https://stackoverflow.design/assets/img/logos/so/logo-print.svg">
