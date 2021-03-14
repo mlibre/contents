@@ -6,6 +6,7 @@
 
 
 Commands:
+linux bash:
 ````
 # Install/Open Termux.
 apt update
