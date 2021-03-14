@@ -5,18 +5,7 @@
 </p></a>
 
 
-Commands:
-linux bash:
-````
-# Install/Open Termux.
-apt update
-apt upgrade
-apt install coreutils nano
-apt install nodejs
-node
-console.log("Hi Have Fun")
-````
-Refrences:
+Commands:  linux bash:  ````  # Install/Open Termux.  apt update  apt upgrade  apt install coreutils nano  apt install nodejs  node  console.log("Hi Have Fun")  ````  Refrences:
 
 https://lbry.tv/@mlibre:e/how-to-install-nodejs-in-android-using:1
 
